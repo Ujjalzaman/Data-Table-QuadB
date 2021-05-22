@@ -30,7 +30,7 @@ nav{
     border:none;
     padding: 5px 10px;
     border-radius: 8px;
-    /* outline: none; */
+    outline: none;
     margin-left: 10px;
 }
 .nav-sidebar{
@@ -56,7 +56,6 @@ nav{
     padding: 3px 10px;
     color:rgb(12, 12, 12);
     font-weight: bolder;
-    
 }
 
 .switch {

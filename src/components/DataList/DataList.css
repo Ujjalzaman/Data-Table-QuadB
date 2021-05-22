@@ -1,0 +1,30 @@
+.data-table{
+    padding: 20px;
+    margin-top: -40px;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    border-radius: 5px;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: 100%;
+}
+thead tr {
+    color: #d7dae9;
+    text-align: left;
+    font-weight: 800;
+    font-size: 1em;
+}
+th,
+td {
+    padding: 12px 15px;
+}
+
+tbody tr {
+    font-size: 1.1em;
+    background-color: #2e3241;
+    margin: 15px;
+    box-shadow: 0 0 20px #00000026;
+}
